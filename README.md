@@ -71,6 +71,6 @@ I build local-first AI systems, automation tools, and integration layers that co
 
 ### CAE Process Engineering
 - Trained and supported CAE users on customer systems, including practical workflows, system usage, and process-oriented application of engineering tools.
-- Create electrical schematics and circuit documentation directly within CAE environments.
+- Created electrical schematics and circuit documentation directly within CAE environments.
 - Analyzed plant and machinery engineering schematics to identify rationalization and software automation potential.
 - Customized CAE/CAD scripting workflows and system tools.
